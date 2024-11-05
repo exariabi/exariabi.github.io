@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://exariabi.github.io/AVi/sitemap_index.txt
+Sitemap: https://exariabi.github.io/NsO/sitemap_index.txt
+Sitemap: https://exariabi.github.io/Upr/sitemap_index.txt
+Sitemap: https://exariabi.github.io/sBf/sitemap_index.txt
